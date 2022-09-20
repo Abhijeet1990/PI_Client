@@ -1,0 +1,15 @@
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\LibraryTest.deps.json
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\LibraryTest.runtimeconfig.json
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\LibraryTest.runtimeconfig.dev.json
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\LibraryTest.dll
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\LibraryTest.pdb
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\OSIsoft.PIDevClub.PIWebApiClient.dll
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\bin\Debug\netcoreapp1.1\OSIsoft.PIDevClub.PIWebApiClient.pdb
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.csprojAssemblyReference.cache
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.AssemblyInfoInputs.cache
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.AssemblyInfo.cs
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.csproj.CoreCompileInputs.cache
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.csproj.CopyComplete
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.dll
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.pdb
+D:\TestPIWeb\PI-Web-API-Client-DotNet-Core-master\PI-Web-API-Client-DotNet-Core-master\src\OSIsoft.PIDevClub.PIWebApiClient\LibraryTest\obj\Debug\netcoreapp1.1\LibraryTest.genruntimeconfig.cache

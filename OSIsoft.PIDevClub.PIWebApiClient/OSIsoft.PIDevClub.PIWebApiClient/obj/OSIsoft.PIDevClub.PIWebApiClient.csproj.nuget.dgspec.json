@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TestPIWeb\\PI-Web-API-Client-DotNet-Core-master\\PI-Web-API-Client-DotNet-Core-master\\src\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient.csproj": {}
+  },
+  "projects": {
+    "D:\\TestPIWeb\\PI-Web-API-Client-DotNet-Core-master\\PI-Web-API-Client-DotNet-Core-master\\src\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestPIWeb\\PI-Web-API-Client-DotNet-Core-master\\PI-Web-API-Client-DotNet-Core-master\\src\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient.csproj",
+        "projectName": "OSIsoft.PIDevClub.PIWebApiClient",
+        "projectPath": "D:\\TestPIWeb\\PI-Web-API-Client-DotNet-Core-master\\PI-Web-API-Client-DotNet-Core-master\\src\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient.csproj",
+        "packagesPath": "C:\\Users\\abhijeet_ntpc\\.nuget\\packages\\",
+        "outputPath": "D:\\TestPIWeb\\PI-Web-API-Client-DotNet-Core-master\\PI-Web-API-Client-DotNet-Core-master\\src\\OSIsoft.PIDevClub.PIWebApiClient\\OSIsoft.PIDevClub.PIWebApiClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhijeet_ntpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "RestSharp.NetCore": {
+              "target": "Package",
+              "version": "[105.2.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
